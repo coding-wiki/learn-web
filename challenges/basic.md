@@ -39,7 +39,7 @@ Use a website that lets you write HTML, CSS and JavaScript in the same window su
 </body>
 ```
 
-``js
+```js
 var helloText = document.getElementById('helloText');
 
 helloText.innerHTML = 'Hi!';
